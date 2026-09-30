@@ -1,5 +1,6 @@
 export const flags = {
 	auditLog: true,
+	invitesEnabled: false,
 	newBilling: false,
 } as const;
 
