@@ -6,5 +6,20 @@
     "owner": "Owner",
     "admin": "Admin",
     "member": "Member"
+  },
+  "invites": {
+    "open": "Invite people",
+    "title": "Invite to team",
+    "email": "Email",
+    "role": "Role",
+    "send": "Send invite",
+    "sending": "Sending…",
+    "cancel": "Cancel",
+    "pending": "Pending invites",
+    "errors": {
+      "alreadyMember": "This person is already on the team.",
+      "forbidden": "Only owners and admins can invite people.",
+      "generic": "Couldn't send the invite. Try again."
+    }
   }
 }
