@@ -1,3 +1,4 @@
+import { inviteRoutes } from "./routes/invites.ts";
 import { membersRoutes } from "./routes/members.ts";
 
 export interface Route {
@@ -6,4 +7,4 @@ export interface Route {
 	handler: (req: { params: Record<string, string>; body?: unknown; userEmail: string }) => { status: number; body: unknown };
 }
 
-export const routes: Route[] = [...membersRoutes];
+export const routes: Route[] = [...membersRoutes, ...inviteRoutes];
