@@ -1,6 +1,6 @@
 # Reviewing Teamspace
 
-These are the team's rules for arranging pull requests in [LogiKFlow](https://logikflow.yemzikk.in). AI agents read this file automatically, and **Add the team checklist** in arrange mode adds the checklist below.
+These are the team's rules for arranging pull requests in [LogiKFlow](https://logikflow.dev). AI agents read this file automatically, and **Add the team checklist** in arrange mode adds the checklist below.
 
 ## Order
 
